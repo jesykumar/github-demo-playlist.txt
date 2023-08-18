@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello world"<<endl;
-
+    cout<<"Pigion and Sparrows";
     return 0;
 }
